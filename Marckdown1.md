@@ -14,7 +14,7 @@
 
 ---
 
-![perfil|50](https://yoimarjulio.netlify.app/assets/images/img3.jpg)
+![perfil|10](https://yoimarjulio.netlify.app/assets/images/img3.jpg)
 
 > Un **desarrollador** de **Frontend** en infinito proceso de expandir conocimientos, abierto a nuevas oportunidades de innovacion para mejorar siempre en el ambito profecional y laboral.
 
