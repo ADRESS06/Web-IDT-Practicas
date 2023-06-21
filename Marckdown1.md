@@ -14,6 +14,8 @@
 
 ---
 
+![perfil|100](https://yoimarjulio.netlify.app/assets/images/img3.jpg)
+
 > Un **desarrollador** de **Frontend** en infinito proceso de expandir conocimientos, abierto a nuevas oportunidades de innovacion para mejorar siempre en el ambito profecional y laboral.
 
 ---
@@ -70,4 +72,3 @@ Animado siempre a aprender cada ves mas sobre el gran mundo de la tegnologia en 
 <a href="https://yoimarjulio.netlify.app/">PortafolioWeb</a>
 </div>
 <!-- Ignorar \*\*programacion basica\*\* -->
-<!-- imagen => ![perfil](https://yoimarjulio.netlify.app/assets/images/img3.jpg) -->
