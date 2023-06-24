@@ -25,4 +25,4 @@ npm start
 
 ## Terminar proyecto
 
-//npm build
+npm build
